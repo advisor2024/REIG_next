@@ -69,7 +69,7 @@ const page = () => {
               <div className="pr-blog-boxs">
                 <div className="pr-blog-box">
                   <div className="pr-title">
-                    <p>Investing in Tomorrow's Opportunities Today</p>
+                    <p>Investing in Tomorrows Opportunities Today</p>
                   </div>
                   <div className="pr-dec">
                     <p>

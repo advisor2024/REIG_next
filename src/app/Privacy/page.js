@@ -63,14 +63,14 @@ const page = () => {
           </p>
 
           <p>
-            Telephone:{" "}
+            Telephone:
             <Link href="tel:+4971149050391">+49 711 – 490 50 391</Link>
             <br />
             Fax: <Link href="tel:+497114905025">+49 711 – 490 50 25</Link>
             <br />
-            E-Mail: <Link href="mailto:offer@reig.uk">offer@reig.uk</Link>{" "}
+            E-Mail: <Link href="mailto:offer@reig.uk">offer@reig.uk</Link>
           </p>
-          <p>is the provider's data protection officer:</p>
+          <p>is the providers data protection officer:</p>
 
           <h3>II Rights of users and data subjects</h3>
           <p>
