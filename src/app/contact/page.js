@@ -76,10 +76,6 @@ const Page = () => {
             <div className="contact-text">
               <div className="com-title">
                 <span>CONTACT US</span>
-                <h2>
-                  Wir freuen uns auf Ihre Fragen und vereinbaren gerne einen
-                  Termin mit Ihnen zusammen -
-                </h2>
               </div>
               <div className="contact-detail">
                 {/* Contact Details - Email */}
