@@ -75,7 +75,7 @@ const Page = () => {
           <div className="contact-wrapper py py-b">
             <div className="contact-text">
               <div className="com-title">
-                <span>KONTAKT US</span>
+                <span>CONTACT US</span>
                 <h2>
                   Wir freuen uns auf Ihre Fragen und vereinbaren gerne einen
                   Termin mit Ihnen zusammen -
