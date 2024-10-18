@@ -6,19 +6,19 @@ const Cookie = () => {
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    const cookieConsent = Cookies.get("EAS-cookie");
+    const cookieConsent = Cookies.get("REIG-cookie");
     if (!cookieConsent) {
       setIsVisible(true);
     }
   }, []);
 
   const handleAcceptAll = () => {
-    Cookies.set("EAS-cookie", "Alle akzeptieren", { expires: 1 });
+    Cookies.set("REIG-cookie", "Accept all", { expires: 1 });
     setIsVisible(false); // Close the popup
   };
 
   const handleAcceptEssentials = () => {
-    Cookies.set("EAS-cookie", "Nur essenzielle Cookies akzeptieren", {
+    Cookies.set("REIG-cookie", "Only accept essential cookies", {
       expires: 1,
     });
     setIsVisible(false); // Close the popup

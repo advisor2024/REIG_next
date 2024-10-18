@@ -1,3 +1,4 @@
+
 import HeroBanner from "../component/HeroBanner";
 import AnalyticsSection from "../component/AnalyticsSection";
 import unter_about_1 from "../../public/img/unter-about-1.svg";
@@ -5,6 +6,7 @@ import unter_about_2 from "../../public/img/unter-about-2.svg";
 import unter_about_3 from "../../public/img/unter-about-3.svg";
 import unter_about_4 from "../../public/img/unter-about-4.svg";
 import Image from "next/image";
+import CommingSoon from "@/component/CommingSoon";
 
 export default function Home() {
   return (
@@ -62,7 +64,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </section>  
     </>
   );
 }

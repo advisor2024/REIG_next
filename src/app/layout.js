@@ -5,6 +5,7 @@ import Footer from "@/component/Footer";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import Cookie from "@/component/Cookie";
 import TopButton from "@/component/TopButton";
+import CommingSoon from "@/component/CommingSoon";
 
 export const metadata = {
   title: "REIG",
@@ -26,12 +27,13 @@ export default function RootLayout({ children }) {
         <link rel="icon" type="image/svg" href="../public/img/REG.svg" />
       </head>
       <body>
-        <Header />
+        {/* <Header />
         <main>{children}</main>
         <SpeedInsights />
         <Cookie />
         <TopButton />
-        <Footer />
+        <Footer /> */}
+        <CommingSoon/>
       </body>
     </html>
   );
