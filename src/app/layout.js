@@ -27,13 +27,13 @@ export default function RootLayout({ children }) {
         <link rel="icon" type="image/svg" href="../public/img/REG.svg" />
       </head>
       <body>
-        <Header />
+        {/* <Header />
         <main>{children}</main>
         <SpeedInsights />
         <Cookie />
         <TopButton />
-        <Footer />
-        {/* <CommingSoon/> */}
+        <Footer /> */}
+        <CommingSoon/>
       </body>
     </html>
   );
