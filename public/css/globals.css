@@ -1701,6 +1701,9 @@ strong {
   -o-border-radius: 14px;
   text-decoration: none;
 }
+.search{
+  opacity: 0;
+}
 @media(max-width:1360px) {
 
   h1,
