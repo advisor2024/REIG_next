@@ -1,5 +1,5 @@
 import Image from "next/image";
-import productBG from "../../../public/img/portfolio-bg.jpeg";
+import productBG from "../../../public/img/portfolio-bg.jpg";
 import Link from "next/link";
 
 const page = () => {
@@ -159,7 +159,6 @@ const page = () => {
                     <div className="pr-dec-ul">
                       <p>Investment Segments</p>
                       <ul>
-                        <li>Core plus</li>
                         <li>Value-add</li>
                         <li>Opportunistic</li>
                       </ul>
@@ -199,7 +198,6 @@ const page = () => {
                     <div className="pr-dec-ul">
                       <p>Investment Segments</p>
                       <ul>
-                        <li>Core plus</li>
                         <li>Value-add</li>
                         <li>Opportunistic</li>
                       </ul>

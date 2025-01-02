@@ -39,12 +39,6 @@ const page = () => {
                   transparency. We believe in building long-term relationships
                   based on trust and performance.
                 </p>
-                <p>
-                  Insgesamt zeigt die Vision von KI-Agenten, die kooperativ und
-                  intelligent agieren, um komplexe Aufgaben zu bewältigen,
-                  großes Potenzial. Die Verbindung von KI und neuronalen
-                  Netzwerken verspricht eine aufregende Zukunft für EAS Lösung.
-                </p>
               </div>
             </div>
             <div className="product-img">
